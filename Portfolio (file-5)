@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1 align="center">PROJECTS</h1>
+    <BIG>My Projects are listed below:</BIG>
+    </header>
+    <BR />
+    <main>
+    <HR />
+    <div>
+    <p><b>FIRST PROJECT: </b> PHARMACY MANAGEMENT SYSTEM</p>
+    <P><B>DATE AND TIME: </B>DURING FIRST SEM ,FEB</P>
+    <br />
+    <img src="https://join.healthmart.com/wp-content/uploads/2016/11/sr-imag-ftr-pharmacy-management-system.jpg" height="200" width="400"/>
+    </div>
+    <HR />
+    <div>
+    <P><B>SECOND PROJECT: </B>STUDENT MANAGEMENT SYSTEM</P>
+    <P><B>DATE AND TIME: </B>DURING SECOND SEM ,JULY</P>
+    <img src="https://softwaresuggest-cdn.s3-ap-southeast-1.amazonaws.com/pageimages/Student-Management-System-Guide-min.png" height="200" width="400"/>
+    </div>
+    <BR />
+    <section><P><B>TOTAL: </B>2</P>
+    <P>THIS IS TOTAL OF MY PROJECTS!!</P></section>
+    <hr />
+    </main>
+    <footer>
+    <div>
+    <p><b>SAY HELLO</b></p>
+    <p><i>Click on the given link below:</i></p>
+    <a href="/HTML PRACTICE/Hello.html">HELLO</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR EDUCATION</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EDUCATION.html">EDUCATION</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR EXPERIENCE</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EXPERIENCE.html">EXPERIENCE</a>
+    </div>
+    <br />
+    <div>
+    <p><b>IF YOU WANT TO GO BACK</b></p>
+    <P><I>Click on the given link below:</I></P>
+    <a href="/HTML PRACTICE/index.html">MAIN</a>
+    </div>
+    </footer>
+</body>
+</html>
