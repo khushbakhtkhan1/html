@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>print hello</title>
+</head>
+<body>
+    <header>
+    <h1 align="center">Hello!</h1>
+    <pre>HELLO FROM MY SIDE,
+
+
+
+HELLLLLLLOOOOOOOO WWWWWWWWOOOOOORRRRRRLLLLLLLLLDDDDDD
+
+
+
+
+HELLOOOOOOOOOOOOO GUYSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+
+
+
+THEEEEEE HELLLLLLLOOOOOOOOOOOO WINDOWWWWWWWWWWWWWWW
+    </header>
+    <main>
+    </pre>
+    <hr />
+    <section>
+    <div>
+    <P><B>FOR EDUCATION</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EDUCATION.html">EDUCATION</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR EXPERIENCE</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EXPERIENCE.html">EXPERIENCE</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR PROJECTS</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/PROJECTS.html">PROJECTS</a>
+    </div>
+    <br />
+    </main>
+    <footer>
+        <div>
+    <p><b>IF YOU WANT TO GO BACK</b></p>
+    <P><I>Click on the given link below:</I></P>
+    <a href="/HTML PRACTICE/index.html">MAIN</a>
+    </div>
+    </footer>
+    </section>
+</body>
+</html>
