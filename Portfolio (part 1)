@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+</head>
+<body>
+   <header>
+    <h1 align="center">MY PORTFOLIO</h1>
+    </header>
+    <main>
+        <i>click on the image below for my github account</i>
+        <br />
+        <a href="https://github.com/khushbakhtkhan1" target="_main">
+        <img src="https://as2.ftcdn.net/v2/jpg/03/81/03/83/500_F_381038373_XitPcuLipwu4X7nxLcH48iovfKr6RQCp.jpg" 
+        alt="GITHUB" height="300" width="350"></a>
+        <h4 style="color:darkred">CONTACT ME</h4>
+        <!-- <form action="/action.php"> -->
+            <input type="text" placeholder="Name">
+            <br />
+            <br />
+            <input type="email" placeholder="E-mail">
+            <br />
+            <br />
+            <textarea name="details" id="101" placeholder="Please write your query or the description of your problem" rows="10" cols="40">Details</textarea>
+            <br />
+            <br />
+            <input type="submit" value="submit">
+        </form>
+    
+        <ul>
+            <li><b style="color:darkcyan">EDUCATION</b></li>
+            <LI><b style="color:darkcyan">EXPERIENCE</b></LI>
+            <LI><b style="color:darkcyan">PROJECTS</b></LI>
+        </ul>
+
+    </main>
+    <footer>
+    <p><b>SAY HELLO</b></p>
+    <p><i>Click on the given link below:</i></p>
+    <a href="/HTML PRACTICE/Hello.html">HELLO</a>
+    <br />
+    <P><B>FOR EDUCATION</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EDUCATION.html">EDUCATION</a>
+    <br />
+    <P><B>FOR EXPERIENCE</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EXPERIENCE.html">EXPERIENCE</a>
+    <br />
+    <P><B>FOR PROJECTS</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/PROJECTS.html">PROJECTS</a>
+    </footer>
+</body>
+</html>
