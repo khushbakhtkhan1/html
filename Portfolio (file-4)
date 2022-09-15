@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1 align="center"><b>EXPERIENCE</b></h1>
+    <big>My Experience is stated below:</big>
+    </header>
+    <br />
+    <main>
+    <P><B>FIELD RELATED: </B>NO EXPERIENCE</P>
+    <P><B>EXTRA-CURRICULAR: </B></P>
+    <P>-2 YEARS OF EXPERIENCE IN SOCIAL WORK</P>
+    <img src="https://www.pacificoaks.edu/voicesadmin/2021/07/POC_VoicesDigital_NextGenSocialWorker_1400x766-1-883x483.png" height="170"/>
+    <P>-1 YEAR OF CRICKET EXPERIENCE</P>
+    <img src="https://c.ndtvimg.com/2022-09/km51pqo_babar-azam-afp_625x300_02_September_22.jpg" height="190" width="310"/>
+    <P>-DID PYTHON COURSE FOR 3 MONTHS</P>
+    <img src="https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg?crop=4:3" height="200" width="310"/>
+    <hr />
+    </main>
+    <footer>
+    <div>
+    <p><b>SAY HELLO</b></p>
+    <p><i>Click on the given link below:</i></p>
+    <a href="/HTML PRACTICE/Hello.html">HELLO</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR EDUCATION</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/EDUCATION.html">EDUCATION</a>
+    </div>
+    <br />
+    <div>
+    <P><B>FOR PROJECTS</B></P>
+    <P><i>Click on the given link below:</i></P>
+    <a href="/HTML PRACTICE/PROJECTS.html">PROJECTS</a>
+    </div>
+    <br />
+    <div>
+    <p><b>IF YOU WANT TO GO BACK</b></p>
+    <P><I>Click on the given link below:</I></P>
+    <a href="/HTML PRACTICE/index.html">MAIN</a>
+    </div>
+    </footer>
+
+</body>
+</html>
